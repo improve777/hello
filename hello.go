@@ -13,3 +13,7 @@ func world() {
 func Doyun() string {
 	return "iOS Programmer"
 }
+
+func Halloween() string {
+	return "comming Halloween"
+}
