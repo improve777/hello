@@ -9,3 +9,7 @@ func Hello() string {
 func world() {
 	fmt.Println("Hello, World!")
 }
+
+func Doyun() string {
+	return "iOS Programmer"
+}
